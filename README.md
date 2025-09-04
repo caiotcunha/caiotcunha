@@ -5,7 +5,7 @@ Currently studying computer science in UFMG
 - 🔭 I’m interested in **Software Development**, **CUDA development** and **Clould Engineering**
 - 🎮 I'm also interested in **Game Development**
 - 🌱 I’m currently learning CUDA as part of my thesis, developing projects to explore new technologies, and seeking opportunities to contribute to the community.
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d8860758-9909-4280-909a-a5ecb107f37b" /> I’m currently posting my studies on youtube to motivate myself and other students
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d8860758-9909-4280-909a-a5ecb107f37b" /> I’m currently posting my studies on youtube to motivate myself and other students
 - 📫 How to reach me: caiotelescunha2001@gmail.com
 
 ## Connect with me:
