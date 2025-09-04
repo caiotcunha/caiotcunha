@@ -48,7 +48,9 @@ currently_learning: ["CUDA,Docker and Kubernets"]
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width="45" height="45" />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg' width="45" height="45" />
 </p>
-
+##
+<p align="center">
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiotcunha&show_icons=true&theme=tokyonight&bg_color=00000000)
+<\p>
 
 
