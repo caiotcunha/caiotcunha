@@ -1,19 +1,35 @@
-## Hello, I'm Caio Teles
+## Me and my interests
+```yaml
+name: Caio Teles Cunha
+located_in: Belo Horizonte, Brazil
+email: caiotelescunha2001@gmail.com
+education:
+  [
+    "Bachelor’s student in Computer Science at UFMG",
+  ]
+technical_background:
+  [
+    "Intern - Software Engeneering at SYDLE",
+    "Intern - Software Engeneering at iJunior UFMG",
+    "Intern - network infrastructure engineer at CRC/DCC",
+  ]
+fields_of_interests:
+  [
+    "Software Engeneering",
+    "DevOps",
+    "Game Development",
+    "CUDA development",
+  ]
 
-Currently studying computer science in UFMG
-
-- 🔭 I’m interested in **Software Development**, **CUDA development** and **Clould Engineering**
-- 🎮 I'm also interested in **Game Development**
-- 🌱 I’m currently learning CUDA as part of my thesis, developing projects to explore new technologies, and seeking opportunities to contribute to the community.
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b6bc518c-8021-42c2-b957-64736aaed63a" /> I’m currently posting my studies on youtube to motivate myself and other students
-- 📫 How to reach me: caiotelescunha2001@gmail.com
+currently_learning: ["CUDA,Docker and Kubernets"]
+2022 Goals: ["Study for job interviews and share my study progress on YouTube to motivate both myself and other students"]
+```
 
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/caio-cunha-60860b24a/" target="blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' width="45" height="45" /></a>
 <a href="https://www.youtube.com/@CaiosStudentJourney" target="blank"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/b6bc518c-8021-42c2-b957-64736aaed63a" /></a>
 </p>
-
 
 ## Languages
 <p align="left">
@@ -32,4 +48,6 @@ Currently studying computer science in UFMG
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width="45" height="45" />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg' width="45" height="45" />
 </p>
+
+
 
