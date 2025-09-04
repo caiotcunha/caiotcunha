@@ -14,7 +14,6 @@ Currently studying computer science in UFMG
 </p>
 
 ## Languages
-<h2> 🚀 &nbsp;Some Languages I Have Used and Learned</h2>
 <p align="left">
 <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="c" width="45" height="45"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' width="45" height="45" />
@@ -24,13 +23,8 @@ Currently studying computer science in UFMG
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg' width="45" height="45" />
 </p>
 
-<h2>Some technologies I Have Used and Learned</h2>
+## Technologies
 <p align="left">
 <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="c" width="45" height="45"/>
 </p>
-
-## Languages
-
-<h2> 🚀 &nbsp;Some Technologies I Have Used and Learned</h2>
-<p align="left">
 
