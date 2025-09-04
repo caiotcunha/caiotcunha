@@ -53,7 +53,7 @@ currently_learning: ["CUDA,Docker and Kubernets"]
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiotcunha&show_icons=true&theme=tokyonight&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiotcunha&theme=tokyonight&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiotcunha&theme=tokyonight&bg_color=00000000&repo=convoychat" />
 </a>
 
 
