@@ -49,12 +49,15 @@ currently_learning: ["CUDA,Docker and Kubernets"]
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg' width="45" height="45" />
 </p>
 
+## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiotcunha&show_icons=true&theme=tokyonight&bg_color=00000000" />
 </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=caiotcunha&theme=tokyonight" alt="GitHub Streak" /></a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiotcunha&layout=compact&langs_count=8&card_width=320&theme=tokyonight&bg_color=00000000" />
 </a>
+
+## Streak
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=caiotcunha&theme=tokyonight" alt="GitHub Streak" /></a>
 
 
