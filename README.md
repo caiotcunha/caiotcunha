@@ -9,9 +9,11 @@ education:
   ]
 technical_background:
   [
-    "Intern - Software Engeneering at SYDLE",
-    "Intern - Software Engeneering at iJunior UFMG",
-    "Intern - network infrastructure engineer at CRC/DCC",
+    "Intern Researcher - Speed Lab UFMG | Aug 2025 - today",
+    "Intern - Network Infrastructure Engineer at CRC/DCC | Jan 2025 - Aug 2025",
+    "Volunteer Researcher - Speed Lab UFMG | Jan 2024 - Aug 2025",
+    "Intern - Software Engineering at SYDLE | Jan 2023 - Jan 2024",
+    "Intern - Software Engineering at iJunior UFMG | Jan 2022 - Jan 2023"
   ]
 fields_of_interests:
   [
