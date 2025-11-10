@@ -30,7 +30,6 @@ currently_learning: ["CUDA,Docker and Kubernets"]
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/caio-cunha-60860b24a/" target="blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' width="45" height="45" /></a>
-<a href="https://www.youtube.com/@CaiosStudentJourney" target="blank"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/b6bc518c-8021-42c2-b957-64736aaed63a" /></a>
 </p>
 
 ## Languages
