@@ -5,7 +5,7 @@ located_in: Belo Horizonte, Brazil
 email: caiotelescunha2001@gmail.com
 education:
   [
-    "Bachelor’s student in Computer Science at UFMG",
+    "B.S. in Computer Science, UFMG",
   ]
 technical_background:
   [
