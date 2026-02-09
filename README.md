@@ -24,7 +24,7 @@ fields_of_interests:
   ]
 
 currently_learning: ["CUDA,Docker and Kubernets"]
-2025 Goals: ["Study for job interviews and share my study progress on YouTube to motivate both myself and other students"]
+2026 Goals: ["Study CUDA and image processing"]
 ```
 
 ## Connect with me:
