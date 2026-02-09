@@ -58,7 +58,4 @@ currently_learning: ["CUDA,Docker and Kubernets"]
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiotcunha&layout=compact&langs_count=8&card_width=320&theme=tokyonight&bg_color=00000000" />
 </a>
 
-## Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/caiotcunha)
-
 
